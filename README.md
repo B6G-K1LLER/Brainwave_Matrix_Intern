@@ -40,8 +40,6 @@ pip install colorama tabulate
    - Choose option `2` to analyze a list of URLs from a file.
    - Ensure the file contains one URL per line, and provide the path to the file.
 
-Sure! Here's a small notice with an alert emoji:
-
 ---
 
 ⚠️ **Notice**: While this tool is designed to detect phishing URLs, it may occasionally produce false positives or miss certain phishing attempts. Always verify results with additional checks.
