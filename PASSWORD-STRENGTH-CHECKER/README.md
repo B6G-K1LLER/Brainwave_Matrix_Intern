@@ -1,5 +1,3 @@
----
-
 # PassSafeCheck Password Strength Checker
 
 **PassSafeCheck** is a robust tool designed to evaluate the strength of passwords based on key security metrics such as length, complexity, and uniqueness. It provides detailed feedback and a color-coded assessment to help users create strong and secure passwords.
@@ -13,8 +11,4 @@
 - **Special Characters**: Detects special symbols like `!@#$%^&*` to improve password unpredictability.  
 - **Uniqueness Evaluation**: Flags repetitive or predictable patterns, ensuring higher entropy.  
 
----
-
 ⚠️ **Notice**: This tool provides guidance on password strength but does not guarantee absolute security. Always follow best practices for password management, including using unique passwords for each service and considering a password manager.
-
---- 
